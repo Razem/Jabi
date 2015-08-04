@@ -1,0 +1,20 @@
+{
+  "name": "jabi",
+  "version": "0.0.1",
+  "description": "Tiny objective library",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/index"
+  },
+  "author": "Radomír Žemlička <info@razem.cz> (http://razem.cz)",
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Razem/Jabi.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "expect.js": "~0.3.1",
+    "mocha": "^2.2.5"
+  }
+}
